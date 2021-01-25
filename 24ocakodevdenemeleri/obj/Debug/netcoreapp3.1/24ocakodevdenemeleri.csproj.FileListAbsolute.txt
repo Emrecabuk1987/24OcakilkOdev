@@ -1,0 +1,13 @@
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.exe
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.deps.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.runtimeconfig.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.runtimeconfig.dev.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.dll
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\bin\Debug\netcoreapp3.1\24ocakodevdenemeleri.pdb
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.AssemblyInfo.cs
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.dll
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.pdb
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\24ocakodevdenemeleri\obj\Debug\netcoreapp3.1\24ocakodevdenemeleri.genruntimeconfig.cache

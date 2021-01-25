@@ -1,0 +1,13 @@
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\InterFaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

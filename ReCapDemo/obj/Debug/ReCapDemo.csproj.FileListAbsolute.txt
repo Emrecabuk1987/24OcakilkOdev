@@ -1,0 +1,10 @@
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\bin\Debug\ReCapDemo.exe.config
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\bin\Debug\ReCapDemo.exe
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\bin\Debug\ReCapDemo.pdb
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.Form1.resources
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.Properties.Resources.resources
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.exe
+C:\Users\Emre\source\repos\24ocakodevdenemeleri\ReCapDemo\obj\Debug\ReCapDemo.pdb
